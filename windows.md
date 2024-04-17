@@ -13,7 +13,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ## Programas para instalar com chocolatey
 ```powershell
 choco install spotify
-choco install vscode.install
+choco install vscode
 choco install python3
 choco install git
 choco install autohotkey
