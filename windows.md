@@ -1,4 +1,4 @@
-# Setup de programas frequentemente usados no windows
+# Setup do windows para programar
 
 ## Instalar chocolatey
 
