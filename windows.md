@@ -16,7 +16,7 @@ choco install spotify
 choco install vscode
 choco install python3
 choco install git
-choco install autohotkey
+choco install autohotkey.portable --version=2.0.2
 ```
 
 ## Script de atalhos do autohotkey
