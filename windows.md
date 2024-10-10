@@ -17,6 +17,7 @@ choco install vscode
 choco install python3
 choco install git
 choco install autohotkey.portable --version=2.0.2
+choco install sublimetext3
 ```
 
 ## Script de atalhos do autohotkey
