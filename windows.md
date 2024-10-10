@@ -51,4 +51,40 @@ choco install sublimetext3
     Run("cmd.exe /k cd C:\\Users\\pedro.ramos")
     return
 }
+
+RAlt & h::
+{
+    Send("{Left}")
+    return
+}
+
+RAlt & j::
+{
+    Send("{Down}")
+    return
+}
+
+RAlt & k::
+{
+    Send("{Up}")
+    return
+}
+
+RAlt & l::
+{
+    Send("{Right}")
+    return
+}
+
+RAlt & z::
+{
+    Send("\")
+    return 
+}
+
+RAlt & x::
+{
+    Send("|")
+    return
+}
 ```
