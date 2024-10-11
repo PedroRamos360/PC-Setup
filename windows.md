@@ -18,6 +18,7 @@ choco install python3
 choco install git
 choco install autohotkey.portable --version=2.0.2
 choco install sublimetext3
+choco install insomnia-rest-api-client
 ```
 
 ## Script de atalhos do autohotkey
