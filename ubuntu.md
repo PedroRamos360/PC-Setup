@@ -14,11 +14,11 @@ sudo snap install insomnia
 # Instala Python 3, pip e Git (caso não estejam instalados)
 ```bash
 sudo apt install python3 python3-pip git -y
-curl -o- [https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh](https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh) | bash
 ```
 
 # Carrega o NVM (necessário fechar e reabrir o terminal após a instalação)
 ```bash
+curl -o- [https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh](https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh) | bash
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
 ```
