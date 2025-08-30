@@ -16,6 +16,11 @@ sudo snap install insomnia
 sudo apt install python3 python3-pip git -y
 ```
 
+# Instala o curl
+```bash
+sudo apt install curl
+```
+
 # Carrega o NVM (necessário fechar e reabrir o terminal após a instalação)
 ```bash
 curl -o- [https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh](https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh) | bash
